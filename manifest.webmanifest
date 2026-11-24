@@ -1,0 +1,16 @@
+{
+  "name": "إدارة مزرعة العصافير | Bird Farm Manager",
+  "short_name": "مزرعتي",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eaf3ff",
+  "theme_color": "#0756a8",
+  "description": "إدارة الطيور والأزواج والبيض والتفريخ | Bird farm management",
+  "icons": [
+    {"src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
